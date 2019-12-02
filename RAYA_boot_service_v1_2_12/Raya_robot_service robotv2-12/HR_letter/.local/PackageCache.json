@@ -1,0 +1,823 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "DocX",
+        "Version": "1.0.0.19"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\docx/1.0.0.19\\lib/net40/DocX.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "Google.Api.Gax",
+        "Version": "2.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.api.gax/2.10.0\\lib/net45/Google.Api.Gax.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\system.interactive.async/3.2.0\\lib/net46/System.Interactive.Async.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "GoogleApi",
+        "Version": "3.9.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\googleapi/3.9.2\\lib/net45/GoogleApi.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\portable.bouncycastle/1.8.1.3\\lib/net40/BouncyCastle.Crypto.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "MySql.Data",
+        "Version": "8.0.18"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.protobuf/3.6.1\\lib/net45/Google.Protobuf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\mysql.data/8.0.18\\lib/net452/MySql.Data.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\ssh.net/2016.1.0\\lib/net40/Renci.SshNet.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "NPOI",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "Pomelo.EntityFrameworkCore.MySql",
+        "Version": "3.0.0"
+      },
+      "Assemblies": []
+    },
+    {
+      "Package": {
+        "Id": "Reddoor.GoogleSheet",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis/1.39.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis/1.39.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.auth/1.39.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.auth/1.39.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.core/1.39.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.gdata.client/2.2.0\\lib/Google.GData.Client.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.gdata.extensions/2.2.0\\lib/Google.GData.Extensions.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.gdata.spreadsheets/2.2.0\\lib/Google.GData.Spreadsheets.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\reddoor.googlesheet/1.0.1\\lib/net45/Reddoor.GoogleSheet.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Database.Activities",
+        "Version": "1.0.7053.27728"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/Microsoft.Data.ConnectionUI.Dialog.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.6.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.excel.activities/2.6.3\\lib/net461/UiPath.Excel.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.GSuite.Activities",
+        "Version": "1.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis/1.39.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis/1.39.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.auth/1.39.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.auth/1.39.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.calendar.v3/1.39.0.1573\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.core/1.39.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.docs.v1/1.39.0.1576\\lib/net45/Google.Apis.Docs.v1.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.drive.v3/1.39.0.1566\\lib/net45/Google.Apis.Drive.v3.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.gmail.v1/1.39.0.1572\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\google.apis.sheets.v4/1.39.0.1565\\lib/net45/Google.Apis.Sheets.v4.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\mimekit/2.1.4\\lib/net45/MimeKit.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\nodatime/2.4.5\\lib/net45/NodaTime.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.gsuite.activities/1.2.0\\lib/net461/UiPath.GSuite.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.gsuite.activities/1.2.0\\lib/net461/UiPath.GSuite.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.gsuite.activities/1.2.0\\lib/net461/UiPath.GSuite.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/MailKit.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/MimeKit.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.mail.activities/1.6.0\\lib/net461/UiPath.Mail.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "19.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.system.activities/19.8.0\\lib/net461/UiPath.System.Activities.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.8.0-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath/19.8.7173.31251-ce\\lib/UiPath.Interop.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.ocr.contracts/2.1.0\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.uiautomation.activities/19.8.0-ce\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyCloud.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRE11.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRE12.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.vision/1.7.0\\lib/net452/UiPath.Vision.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Word.Activities",
+        "Version": "1.3.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\docx/1.0.0.19\\lib/net40/DocX.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.word.activities/1.3.4\\lib/net452/UiPath.Word.Activities.Design.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.word.activities/1.3.4\\lib/net452/UiPath.Word.Activities.dll",
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\uipath.word.activities/1.3.4\\lib/net452/UiPath.Word.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "WordActivities",
+        "Version": "2.3.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\EN-Ahmed Ayoub\\.nuget\\packages\\wordactivities/2.3.3\\lib/MSWord.dll"
+      ]
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.5",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CreateNewNuGetPackageFromProjectAfterEachBuild": {
+      "Id": "CreateNewNuGetPackageFromProjectAfterEachBuild",
+      "Version": "1.8.8",
+      "Dependencies": []
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "DocX": {
+      "Id": "DocX",
+      "Version": "1.0.0.19",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Google.Api.Gax": {
+      "Id": "Google.Api.Gax",
+      "Version": "2.10.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.Interactive.Async",
+          "Item2": "[3.2.0, 4.0.0)"
+        }
+      ]
+    },
+    "Google.Apis": {
+      "Id": "Google.Apis",
+      "Version": "1.39.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Auth": {
+      "Id": "Google.Apis.Auth",
+      "Version": "1.39.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Calendar.v3": {
+      "Id": "Google.Apis.Calendar.v3",
+      "Version": "1.39.0.1573",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Core": {
+      "Id": "Google.Apis.Core",
+      "Version": "1.39.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Docs.v1": {
+      "Id": "Google.Apis.Docs.v1",
+      "Version": "1.39.0.1576",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Drive.v3": {
+      "Id": "Google.Apis.Drive.v3",
+      "Version": "1.39.0.1566",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Gmail.v1": {
+      "Id": "Google.Apis.Gmail.v1",
+      "Version": "1.39.0.1572",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Sheets.v4": {
+      "Id": "Google.Apis.Sheets.v4",
+      "Version": "1.39.0.1565",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        }
+      ]
+    },
+    "Google.GData.Client": {
+      "Id": "Google.GData.Client",
+      "Version": "2.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[4.0.5, )"
+        }
+      ]
+    },
+    "Google.GData.Extensions": {
+      "Id": "Google.GData.Extensions",
+      "Version": "2.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[4.0.5, )"
+        },
+        {
+          "Item1": "Google.GData.Client",
+          "Item2": "[2.2.0, )"
+        }
+      ]
+    },
+    "Google.GData.Spreadsheets": {
+      "Id": "Google.GData.Spreadsheets",
+      "Version": "2.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[4.0.5, )"
+        },
+        {
+          "Item1": "Google.GData.Client",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Google.GData.Extensions",
+          "Item2": "[2.2.0, )"
+        }
+      ]
+    },
+    "Google.Protobuf": {
+      "Id": "Google.Protobuf",
+      "Version": "3.6.1",
+      "Dependencies": []
+    },
+    "GoogleApi": {
+      "Id": "GoogleApi",
+      "Version": "3.9.2",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "Portable.BouncyCastle",
+          "Item2": "[1.8.1.3, )"
+        }
+      ]
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "interop.domino.dll": {
+      "Id": "interop.domino.dll",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Extensions.FileSystemGlobbing": {
+      "Id": "Microsoft.Extensions.FileSystemGlobbing",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "MimeKit": {
+      "Id": "MimeKit",
+      "Version": "2.1.4",
+      "Dependencies": [
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.2, )"
+        }
+      ]
+    },
+    "MySql.Data": {
+      "Id": "MySql.Data",
+      "Version": "8.0.18",
+      "Dependencies": [
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.3.1, )"
+        },
+        {
+          "Item1": "Google.Protobuf",
+          "Item2": "[3.6.1, )"
+        },
+        {
+          "Item1": "SSH.NET",
+          "Item2": "[2016.1.0, )"
+        }
+      ]
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "11.0.2",
+      "Dependencies": []
+    },
+    "NodaTime": {
+      "Id": "NodaTime",
+      "Version": "2.4.5",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Pomelo.EntityFrameworkCore.MySql": {
+      "Id": "Pomelo.EntityFrameworkCore.MySql",
+      "Version": "3.0.0",
+      "Dependencies": []
+    },
+    "Portable.BouncyCastle": {
+      "Id": "Portable.BouncyCastle",
+      "Version": "1.8.1.3",
+      "Dependencies": []
+    },
+    "Reddoor.GoogleSheet": {
+      "Id": "Reddoor.GoogleSheet",
+      "Version": "1.0.1",
+      "Dependencies": [
+        {
+          "Item1": "CreateNewNuGetPackageFromProjectAfterEachBuild",
+          "Item2": "[1.8.8, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.9.1, )"
+        },
+        {
+          "Item1": "Google.GData.Spreadsheets",
+          "Item2": "[2.2.0, )"
+        }
+      ]
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "SSH.NET": {
+      "Id": "SSH.NET",
+      "Version": "2016.1.0",
+      "Dependencies": []
+    },
+    "System.Interactive.Async": {
+      "Id": "System.Interactive.Async",
+      "Version": "3.2.0",
+      "Dependencies": []
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "19.8.7173.31251-ce",
+      "Dependencies": []
+    },
+    "UiPath.Database.Activities": {
+      "Id": "UiPath.Database.Activities",
+      "Version": "1.0.7053.27728",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.6.3",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.GSuite.Activities": {
+      "Id": "UiPath.GSuite.Activities",
+      "Version": "1.2.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Calendar.v3",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Docs.v1",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Drive.v3",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Gmail.v1",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Sheets.v4",
+          "Item2": "[1.39.0, )"
+        },
+        {
+          "Item1": "MimeKit",
+          "Item2": "[2.1.4, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "NodaTime",
+          "Item2": "[2.4.5, )"
+        }
+      ]
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.6.0",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.FileSystemGlobbing",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "interop.domino.dll",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.1.0",
+      "Dependencies": []
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "19.8.0",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.FileSystemGlobbing",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "19.8.0-ce",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[19.8.7173.31251-ce, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.7.0, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.1.0, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "1.7.0",
+      "Dependencies": []
+    },
+    "UiPath.Word.Activities": {
+      "Id": "UiPath.Word.Activities",
+      "Version": "1.3.4",
+      "Dependencies": [
+        {
+          "Item1": "DocX",
+          "Item2": "[1.0.0.18, )"
+        }
+      ]
+    },
+    "WordActivities": {
+      "Id": "WordActivities",
+      "Version": "2.3.3",
+      "Dependencies": []
+    }
+  }
+}

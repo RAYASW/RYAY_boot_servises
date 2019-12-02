@@ -1,0 +1,399 @@
+.hitstdlabel {
+	width: 150px;
+}
+.hitsreftdlabel {
+	width: 143px;
+}
+.hitstdlabel80 {
+	width: 80px;
+}
+.hitstdlabelsmall {
+	width: 75px; padding-left: 1px; white-space: normal;
+}
+.hitstdlabelsmall_ar {
+	width: 75px; padding-right: 3px; white-space: normal;
+}
+.hitstext {
+	margin: 0px; border: 1px solid rgb(123, 158, 189); border-image: none; width: 90%; font-family: calibri; font-size: 9pt;
+}
+.hitsdatetext {
+	margin: 0px; border: 1px solid rgb(123, 158, 189); border-image: none; font-family: calibri; font-size: 9pt;
+}
+.FormHeader {
+	color: rgb(255, 255, 255); text-transform: capitalize; font-style: normal; font-variant: normal; font-weight: bold; background-color: rgb(2, 52, 134);
+}
+.hitsddl {
+	width: 91.5%; height: 19px; font-family: calibri; font-size: 9pt;
+}
+.gridviewtable {
+	width: 100%; height: 100%; table-layout: fixed;
+}
+input.text {
+	border: 1px solid rgb(123, 158, 189); border-image: none; font-size: 9pt;
+}
+td {
+	overflow: hidden; font-family: Calibri; font-size: 9pt;
+}
+.TDGrid {
+	font-family: Calibri; font-size: 9pt; -ms-word-wrap: break-word;
+}
+li {
+	font-family: Calibri; font-size: 9pt;
+}
+select {
+	border: 1px solid rgb(123, 158, 189); border-image: none; text-align: left; font-size: 9pt;
+}
+a {
+	color: rgb(0, 0, 0); font-family: Calibri; font-size: 9pt;
+}
+a:visited {
+	color: rgb(0, 0, 0);
+}
+a:hover {
+	color: rgb(0, 0, 0);
+}
+a:active {
+	color: rgb(0, 0, 0);
+}
+body {
+	margin: 0px; padding: 0px; text-align: left; color: rgb(0, 0, 0); font-family: Calibri; font-size: 9pt;
+}
+.table100 {
+	width: 100%; height: 100%; margin-top: 0px;
+}
+.table90 {
+	width: 95%; height: 100%;
+}
+.TDdark {
+	color: rgb(255, 255, 255); background-color: rgb(43, 87, 154);
+}
+.TDdarkNew {
+	color: rgb(255, 255, 255); background-color: rgb(0, 21, 68);
+}
+.TDlight {
+	color: rgb(0, 0, 0); background-color: rgb(230, 242, 250);
+}
+.TDmedium {
+	color: rgb(255, 255, 255); background-color: rgb(43, 87, 154);
+}
+.TDlightFormView {
+	color: rgb(0, 0, 0); padding-top: 10px; padding-bottom: 2px; padding-left: 0px; table-layout: fixed; background-color: rgb(230, 242, 250);
+}
+.TDWhite {
+	background-color: rgb(255, 255, 255);
+}
+.style1 {
+	width: 164px; background-color: rgb(0, 22, 88);
+}
+.tvns {
+	font-family: Calibri; font-size: 9pt;
+}
+.service {
+	font-family: Calibri; font-size: 9pt; font-weight: bold;
+}
+.DataGrid {
+	border: 1px rgb(0, 22, 88); width: 100%; color: black; font-family: Calibri; font-size: 9pt; border-collapse: collapse; background-color: white;
+}
+.SelectedItemStyle {
+	border: 1px rgb(0, 22, 88); color: rgb(0, 0, 0); background-color: rgb(137, 208, 239);
+}
+.EditItemStyle {
+	border: 1px rgb(0, 78, 152); color: black; background-color: lime;
+}
+.AlternatingItemStyle {
+	border: 1px rgb(0, 78, 152); color: black; background-color: rgb(255, 255, 224);
+}
+.ItemStyle {
+	border: 1px rgb(0, 78, 152); color: black; background-color: rgb(255, 255, 255);
+}
+.HeaderStyle {
+	border-color: rgb(43, 87, 154); color: white; font-weight: bold; background-color: rgb(43, 87, 154);
+}
+.FooterStyle {
+	border: 1px rgb(0, 78, 152); color: black;
+}
+.PagerStyle {
+	border: 1px rgb(0, 22, 88); color: rgb(255, 255, 255); background-color: rgb(0, 22, 88);
+}
+.textbox {
+	margin: 0px; border: 1px dashed rgb(192, 192, 192); font-family: calibri; font-size: 9pt;
+}
+.HeaderStyle1 {
+	border: 1px solid black; color: white; font-weight: bold; background-color: rgb(43, 87, 154);
+}
+.AlternatingItemStyle1 {
+	border: 1px solid black; color: black; background-color: rgb(255, 255, 224);
+}
+.ItemStyle1 {
+	border: 2px solid black; color: black; background-color: rgb(255, 255, 255);
+}
+.ItemStyleLightYellow {
+	border: 1px solid black; color: black; background-color: rgb(255, 255, 224);
+}
+.DataGrid1 {
+	border: 1px solid black; width: 90%; color: black; font-size: 9pt; border-collapse: collapse; background-color: white;
+}
+.ImageButton {
+	background-image: url("../../Images/hover.jpg");
+}
+.accordionHeader {
+	padding: 5px; border: 1px solid rgb(47, 79, 79); border-image: none; color: white; font-family: Calibri; font-size: 9pt; font-weight: bold; margin-top: 5px; cursor: pointer; background-color: rgb(46, 77, 123);
+}
+.accordionHeaderSelected {
+	padding: 5px; border: 1px solid rgb(47, 79, 79); border-image: none; color: white; font-family: Calibri; font-size: 9pt; font-weight: bold; margin-top: 5px; cursor: pointer; background-color: rgb(80, 120, 179);
+}
+.accordionContent {
+	border-width: medium 1px 1px; border-style: none dashed dashed; border-color: currentColor rgb(47, 79, 79) rgb(47, 79, 79); padding: 10px 5px 5px; border-image: none; background-color: rgb(211, 222, 239);
+}
+.BlueSeparator {
+	width: 100%; color: white; font-family: Calibri; font-size: 9pt; background-image: url("../../Images/Unselectednav.bmp"); background-color: transparent;
+}
+.BlueSparatorRTL {
+	text-align: right;
+}
+.NavBarUnSelected {
+	background-image: url("../../Images/Unselectednav.bmp"); background-repeat: repeat;
+}
+.NavBarSelected {
+	background-image: url("../../Images/selectednav.bmp"); background-repeat: repeat;
+}
+.m_over {
+	background-repeat: repeat; background-color: rgb(255, 0, 255);
+}
+.test {
+	background-image: none;
+}
+.hidden {
+	display: none; visibility: hidden;
+}
+.visible {
+	display: block; visibility: visible;
+}
+span {
+	text-align: left; color: rgb(0, 0, 0); font-size: 9pt;
+}
+input.button {
+	text-align: center; color: rgb(0, 0, 0); font-size: 9pt; text-decoration: underline;
+}
+input.submit {
+	text-align: center; color: rgb(0, 0, 0); font-size: 9pt; text-decoration: underline;
+}
+.htmlbutton {
+	padding: 0px 0px 1px; height: 15px; color: rgb(0, 0, 0); font-family: calibri; font-size: 8pt; text-decoration: underline; background-color: transparent;
+}
+.htmlbuttonR {
+	padding: 0px; text-align: right; color: rgb(0, 0, 0); font-family: calibri; font-size: 9pt; text-decoration: underline; background-color: transparent;
+}
+.htmlbuttonL {
+	padding: 0px; text-align: left; color: rgb(0, 0, 0); font-family: calibri; font-size: 9pt; text-decoration: underline; background-color: transparent;
+}
+li {
+	color: rgb(0, 0, 0); font-family: Calibri; font-size: 9pt;
+}
+.filtertable {
+	width: 660px; height: 221px;
+}
+.error {
+	width: 100%; color: rgb(255, 0, 0); font-family: Calibri; font-size: 9pt; float: right;
+}
+.masterpagetable {
+	width: 100%; height: 100%; line-height: 10px; overflow: auto; margin-top: 0px; table-layout: fixed;
+}
+textarea {
+	border: 1px solid rgb(123, 158, 189); border-image: none; width: 100%; height: 100%; font-family: Verdana; font-size: 9pt; -ms-word-wrap: break-word;
+}
+.popupControl {
+	left: 210px; top: 350px; width: 230px; height: 242px; visibility: hidden; position: absolute; z-index: 10001; background-color: white;
+}
+.CurrentFilterStep {
+	font-size: 9pt; font-weight: bold;
+}
+.NextFilterStep {
+	font-size: 9pt;
+}
+.artd {
+	width: 100px;
+}
+.arreftd {
+	width: 93px;
+}
+.arlabel {
+	width: 100px;
+}
+.tab {
+	width: 640px; height: 455px; overflow: auto; background-color: rgb(230, 242, 250);
+}
+.HITSAjaxTab .ajax__tab_header {
+	color: white; white-space: normal !important; background-color: rgb(7, 48, 107);
+}
+.HITSAjaxTab .ajax__tab_outer {
+	background: url("../../Images/unselectednav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_inner {
+	background: url("../../Images/unselectednav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_tab {
+	background: url("../../Images/unselectednav.bmp") repeat-x rgb(7, 48, 107); padding: 4px; height: 10px; color: white;
+}
+.HITSAjaxTab .ajax__tab_hover .ajax__tab_outer {
+	background: url("../../Images/HoverNav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_hover .ajax__tab_inner {
+	background: url("../../Images/HoverNav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_hover .ajax__tab_tab {
+	background: url("../../Images/HoverNav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_active .ajax__tab_outer {
+	background: url("../../Images/selectednav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_active .ajax__tab_inner {
+	background: url("../../Images/selectednav.bmp") repeat-x;
+}
+.HITSAjaxTab .ajax__tab_active .ajax__tab_tab {
+	background: url("../../Images/selectednav.bmp") repeat-x; color: rgb(255, 255, 255);
+}
+.HITSAjaxTab .ajax__tab_body {
+	background-color: rgb(230, 242, 250);
+}
+.linkbuttonlike {
+	border: 2px outset rgb(123, 158, 189); border-image: none; width: 50px; height: 30px; text-align: center; color: rgb(0, 0, 0); text-decoration: none; background-color: rgb(214, 211, 206);
+}
+.agendatabs {
+	
+}
+.tablist {
+	font: bold 12px/normal Calibri; padding: 0px; margin-top: 0.1em; margin-bottom: 0px; margin-left: 0px; font-size-adjust: none; font-stretch: normal;
+}
+.tablist li {
+	list-style: none; margin: 0px; width: 150px; display: inline;
+}
+.tablist li a {
+	padding: 3px 0.5em; width: 150px; text-decoration: none; margin-left: 3px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.tablist li a:link {
+	color: rgb(0, 0, 0);
+}
+.tablist li a:visited {
+	color: rgb(0, 0, 0);
+}
+.tablist li a:hover {
+	width: 150px; color: rgb(0, 0, 0); text-decoration: blink;
+}
+.tablist li a.current {
+	color: rgb(0, 0, 0); font-weight: bold;
+}
+.modalBackground {
+	opacity: 0.4; background-color: rgb(255, 255, 255);
+}
+.FilterButtons {
+	color: rgb(220, 223, 229); font-style: normal; font-variant: normal; font-weight: bold; background-color: rgb(7, 48, 107);
+}
+.ChartWidthLowRes {
+	width: 200px;
+}
+.ChartWidthHighRes {
+	width: 335px;
+}
+.datagridimageitem {
+	width: 20px;
+}
+.datagridimageHeader {
+	width: 20px;
+}
+.imgcontrolstyle {
+	width: 16px; height: 16px;
+}
+.autocomplete_listItem {
+	text-align: right;
+}
+.AutoCompleteExtender {
+	border: 1px solid rgb(0, 88, 131); border-image: none; text-align: right; color: windowtext; background-color: window;
+}
+.AutoCompleteExtenderItemHighlighted {
+	color: rgb(255, 255, 255); background-color: rgb(51, 153, 255);
+}
+td[id*='oReportCell'] {
+	overflow: visible !important;
+}
+.AttendanceCell {
+	border-width: 1px 1px 1px 2px; border-style: solid; border-color: rgb(123, 158, 189); text-align: center; font-size: 9pt; vertical-align: middle;
+}
+.AttendanceCell2 {
+	border-width: 2px 1px 1px 2px; border-style: solid; border-color: rgb(123, 158, 189); text-align: center; vertical-align: middle;
+}
+.AttendanceCell3 {
+	border: 2px solid rgb(123, 158, 189); border-image: none; width: 100%; font-size: 9pt; table-layout: fixed;
+}
+.AttendanceCell4 {
+	border-width: 1px 2px 1px 1px; border-style: solid; border-color: rgb(123, 158, 189); width: 90%; font-size: 9pt; background-color: rgb(230, 242, 250);
+}
+.AttendanceCell5 {
+	border: 1px solid rgb(123, 158, 189); border-image: none; border-spacing: 0px;
+}
+.AttendanceCell6 {
+	border: 2px solid rgb(123, 158, 189); border-image: none; font-size: 9pt;
+}
+.labelWhite {
+	color: rgb(255, 255, 255); font-weight: bold;
+}
+.navbaricon {
+	color: rgb(0, 0, 0); font-family: calibri; font-size: 8pt; font-weight: bold;
+}
+.htmlbuttonWhite {
+	padding: 0px 0px 1px; height: 15px; color: rgb(255, 255, 255); font-family: calibri; font-size: 9pt; text-decoration: underline; background-color: transparent;
+}
+.GroupingheaderFiltertab {
+	height: 15px; color: rgb(0, 0, 0); font-weight: bold; background-color: rgb(137, 208, 239);
+}
+tr[class='FormHeader'] span {
+	color: white;
+}
+[class='FilterButtons'] input {
+	color: white;
+}
+[class='HeaderStyle'] span {
+	color: white;
+}
+[class='HeaderStyle1'] span {
+	color: white;
+}
+[class='TDdark'] span {
+	color: white;
+}
+span[class='error'] {
+	color: red;
+}
+[disabled] {
+	color: gray; cursor: default; pointer-events: none;
+}
+[disabled]:hover {
+	color: gray;
+}
+div[id^='ctl00_ContentPlaceHolder1'][id$='ReportViewer1_ctl09'] {
+	height: inherit !important;
+}
+table {
+	border-collapse: inherit;
+}
+input[type='submit'] {
+	margin: 0px;
+}
+fieldset {
+	padding: 3px 3px 4px; border: 1px solid rgb(230, 230, 230); border-image: none;
+}
+table[frame='Border'][border='0'] {
+	border: currentColor; border-image: none;
+}
+div[id*='oReportDiv'] > table {
+	margin: 0px auto;
+}
+div[id*='ReportViewer1'] table[id*='fixedTable'] {
+	text-align: center;
+}
+img[src*='logo.aspx'] {
+	padding-right: 6px; max-height: 70px; max-width: 168px; box-sizing: border-box;
+}
+div[id*='ReportViewer1'] * {
+	-webkit-border-before-width: 1pt; -webkit-border-after-width: 1pt; -webkit-border-end-width: 1pt; -webkit-border-start-width: 1pt;
+}

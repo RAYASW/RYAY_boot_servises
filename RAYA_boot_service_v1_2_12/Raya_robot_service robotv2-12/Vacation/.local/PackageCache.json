@@ -1,0 +1,703 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "MySql.Data",
+        "Version": "8.0.18"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\google.protobuf/3.6.1\\lib/net45/Google.Protobuf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\mysql.data/8.0.18\\lib/net452/MySql.Data.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\ssh.net/2016.1.0\\lib/net40/Renci.SshNet.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "MySql.Data.EntityFrameworkCore",
+        "Version": "8.0.18"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\google.protobuf/3.6.1\\lib/net45/Google.Protobuf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.entityframeworkcore/2.1.2\\lib/netstandard2.0/Microsoft.EntityFrameworkCore.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions/2.1.2\\lib/netstandard2.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.entityframeworkcore.relational/2.1.2\\lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.caching.abstractions/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.caching.memory/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.configuration/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.configuration.binder/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.dependencyinjection/2.1.1\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.logging/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.logging.abstractions/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.options/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.extensions.primitives/2.1.1\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\mysql.data/8.0.18\\lib/net452/MySql.Data.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\mysql.data.entityframeworkcore/8.0.18\\lib/net461/MySql.Data.EntityFrameworkCore.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\remotion.linq/2.2.0\\lib/net45/Remotion.Linq.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\ssh.net/2016.1.0\\lib/net40/Renci.SshNet.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.buffers/4.4.0\\lib/netstandard2.0/System.Buffers.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.componentmodel.annotations/4.5.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.diagnostics.diagnosticsource/4.5.0\\lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.interactive.async/3.1.1\\lib/net46/System.Interactive.Async.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.memory/4.5.1\\lib/netstandard2.0/System.Memory.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.numerics.vectors/4.4.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.5.1\\lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Database.Activities",
+        "Version": "1.0.7053.27728"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/Microsoft.Data.ConnectionUI.Dialog.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.Activities.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.database.activities/1.0.7053.27728\\lib/net452/UiPath.Database.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.7.1-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.excel.activities/2.7.1-ce\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.excel.activities/2.7.1-ce\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.excel.activities/2.7.1-ce\\lib/net461/UiPath.Excel.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.7.1-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.mail.activities/1.7.1-ce\\lib/net461/MailKit.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.mail.activities/1.7.1-ce\\lib/net461/MimeKit.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.mail.activities/1.7.1-ce\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.mail.activities/1.7.1-ce\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.mail.activities/1.7.1-ce\\lib/net461/UiPath.Mail.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "19.10.0-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.system.activities/19.10.0-ce\\lib/net461/UiPath.System.Activities.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.10.0-ce"
+      },
+      "Assemblies": [
+        "C:\\Users\\R1\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath/19.10.7230.26901\\lib/UiPath.Interop.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.ocr.contracts/2.2.1\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.uiautomation.activities/19.10.0-ce\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AbbyyCloud.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AbbyyFRE11.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AbbyyFRE12.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\R1\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.dll"
+      ]
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.5",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Google.Protobuf": {
+      "Id": "Google.Protobuf",
+      "Version": "3.6.1",
+      "Dependencies": []
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "interop.domino.dll": {
+      "Id": "interop.domino.dll",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.EntityFrameworkCore": {
+      "Id": "Microsoft.EntityFrameworkCore",
+      "Version": "2.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.EntityFrameworkCore.Abstractions",
+          "Item2": "[2.1.2, )"
+        },
+        {
+          "Item1": "Microsoft.EntityFrameworkCore.Analyzers",
+          "Item2": "[2.1.2, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Caching.Memory",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Remotion.Linq",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "System.ComponentModel.Annotations",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "System.Diagnostics.DiagnosticSource",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "System.Interactive.Async",
+          "Item2": "[3.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions": {
+      "Id": "Microsoft.EntityFrameworkCore.Abstractions",
+      "Version": "2.1.2",
+      "Dependencies": []
+    },
+    "Microsoft.EntityFrameworkCore.Analyzers": {
+      "Id": "Microsoft.EntityFrameworkCore.Analyzers",
+      "Version": "2.1.2",
+      "Dependencies": []
+    },
+    "Microsoft.EntityFrameworkCore.Relational": {
+      "Id": "Microsoft.EntityFrameworkCore.Relational",
+      "Version": "2.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.EntityFrameworkCore",
+          "Item2": "[2.1.2, )"
+        }
+      ]
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Extensions.Caching.Abstractions": {
+      "Id": "Microsoft.Extensions.Caching.Abstractions",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Caching.Memory": {
+      "Id": "Microsoft.Extensions.Caching.Memory",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Caching.Abstractions",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Configuration": {
+      "Id": "Microsoft.Extensions.Configuration",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Abstractions": {
+      "Id": "Microsoft.Extensions.Configuration.Abstractions",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder": {
+      "Id": "Microsoft.Extensions.Configuration.Binder",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Configuration",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection": {
+      "Id": "Microsoft.Extensions.DependencyInjection",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions": {
+      "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "Version": "2.1.1",
+      "Dependencies": []
+    },
+    "Microsoft.Extensions.Logging": {
+      "Id": "Microsoft.Extensions.Logging",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Logging.Abstractions",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Binder",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Logging.Abstractions": {
+      "Id": "Microsoft.Extensions.Logging.Abstractions",
+      "Version": "2.1.1",
+      "Dependencies": []
+    },
+    "Microsoft.Extensions.Options": {
+      "Id": "Microsoft.Extensions.Options",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[2.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[2.1.1, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Primitives": {
+      "Id": "Microsoft.Extensions.Primitives",
+      "Version": "2.1.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.1, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "MySql.Data": {
+      "Id": "MySql.Data",
+      "Version": "8.0.18",
+      "Dependencies": [
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.3.1, )"
+        },
+        {
+          "Item1": "Google.Protobuf",
+          "Item2": "[3.6.1, )"
+        },
+        {
+          "Item1": "SSH.NET",
+          "Item2": "[2016.1.0, )"
+        }
+      ]
+    },
+    "MySql.Data.EntityFrameworkCore": {
+      "Id": "MySql.Data.EntityFrameworkCore",
+      "Version": "8.0.18",
+      "Dependencies": [
+        {
+          "Item1": "MySql.Data",
+          "Item2": "[8.0.18, )"
+        },
+        {
+          "Item1": "Microsoft.EntityFrameworkCore.Relational",
+          "Item2": "[2.1.2, )"
+        }
+      ]
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "11.0.2",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Remotion.Linq": {
+      "Id": "Remotion.Linq",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "SSH.NET": {
+      "Id": "SSH.NET",
+      "Version": "2016.1.0",
+      "Dependencies": []
+    },
+    "System.Buffers": {
+      "Id": "System.Buffers",
+      "Version": "4.4.0",
+      "Dependencies": []
+    },
+    "System.Collections.Immutable": {
+      "Id": "System.Collections.Immutable",
+      "Version": "1.5.0",
+      "Dependencies": []
+    },
+    "System.ComponentModel.Annotations": {
+      "Id": "System.ComponentModel.Annotations",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "System.Diagnostics.DiagnosticSource": {
+      "Id": "System.Diagnostics.DiagnosticSource",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "System.Interactive.Async": {
+      "Id": "System.Interactive.Async",
+      "Version": "3.1.1",
+      "Dependencies": []
+    },
+    "System.Memory": {
+      "Id": "System.Memory",
+      "Version": "4.5.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Buffers",
+          "Item2": "[4.4.0, )"
+        },
+        {
+          "Item1": "System.Numerics.Vectors",
+          "Item2": "[4.4.0, )"
+        },
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "System.Numerics.Vectors": {
+      "Id": "System.Numerics.Vectors",
+      "Version": "4.4.0",
+      "Dependencies": []
+    },
+    "System.Runtime.CompilerServices.Unsafe": {
+      "Id": "System.Runtime.CompilerServices.Unsafe",
+      "Version": "4.5.1",
+      "Dependencies": []
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "19.10.7230.26901",
+      "Dependencies": []
+    },
+    "UiPath.Database.Activities": {
+      "Id": "UiPath.Database.Activities",
+      "Version": "1.0.7053.27728",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.7.1-ce",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.7.1-ce",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "interop.domino.dll",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.2.1",
+      "Dependencies": []
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "19.10.0-ce",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "19.10.0-ce",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[19.10.7230.26901, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.8.1, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.2.1, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "1.8.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.2.1, )"
+        }
+      ]
+    }
+  }
+}
